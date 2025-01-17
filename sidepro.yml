@@ -1,0 +1,8 @@
+name: slide-puzzle
+namespace: albert-villaruz-beta
+origin:
+  git:
+    branch: ''
+    provider: github
+    repository: https://github.com/avcoder/slide_puzzle.git
+    revision: main
